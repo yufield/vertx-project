@@ -1,4 +1,4 @@
-package com.example.starter
+package com.yufield.post
 
 import io.vertx.core.Vertx
 import io.vertx.junit5.VertxExtension
